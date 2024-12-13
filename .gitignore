@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+__pycache__
+*.pickle
+*.pkl
+*.zip
+.git/
+.vscode/
+.ipynb_checkpoints/
+
+output*
+results/
+checkpoints/
+imgs/
+ContentImages/
+FreeStyle/
