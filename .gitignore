@@ -11,6 +11,7 @@ __pycache__
 output*
 results/
 checkpoints/
+datasets/
 imgs/
 ContentImages/
 FreeStyle/

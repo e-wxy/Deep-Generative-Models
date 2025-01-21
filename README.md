@@ -41,8 +41,16 @@ Open Jupyter Notebook and run all cells:
 
 - [SDXL](Stable-Diffusion/SDXL.ipynb)
 - [Guided Diffusion](CLIP-Guided/Guided-Diffusion.ipynb)
+- [Neural Style Transfer](NST/NST.ipynb)
+- [CycleGAN](CycleGAN/CycleGAN.ipynb)
 
 Config params in `Run->Test`.
+
+## References
+1. Podell, Dustin, Zion English, Kyle Lacey, Andreas Blattmann, Tim Dockhorn, Jonas Müller, Joe Penna, and Robin Rombach. ‘SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis’. In The Twelfth International Conference on Learning Representations, 2023. https://openreview.net/forum?id=di52zR8xgf.
+2. Dhariwal, Prafulla, and Alexander Nichol. ‘Diffusion Models Beat GANs on Image Synthesis’. In Advances in Neural Information Processing Systems, 34:8780–94. Curran Associates, Inc., 2021. https://proceedings.neurips.cc/paper/2021/hash/49ad23d1ec9fa4bd8d77d02681df5cfa-Abstract.html.
+3. Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. ‘Image Style Transfer Using Convolutional Neural Networks’. In 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2414–23. Las Vegas, NV, USA: IEEE, 2016. https://doi.org/10.1109/CVPR.2016.265.
+4. Zhu, Jun-Yan, Taesung Park, Phillip Isola, and Alexei A. Efros. ‘Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks’. In 2017 IEEE International Conference on Computer Vision (ICCV), 2242–51. Venice: IEEE, 2017. https://doi.org/10.1109/ICCV.2017.244.
 
 
 ## Acknowledgement
